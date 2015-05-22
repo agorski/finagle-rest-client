@@ -5,5 +5,5 @@ sbt clean run
 
 ## Scala check style 
 ```
-sbt sbt scalastyle
+sbt scalastyle
 ```
